@@ -1,6 +1,8 @@
 Welcome to the Resto project! This repository contains the frontend Nextjs code for Resto, a modern, responsive and user-friendly restaurant web app designed by [Matias Gomez](https://www.figma.com/@gomezmatias126).
 
-## Getting Started
+
+[click here to see the live app](https://resto-restaurant-frontend.vercel.app/)
+## running locally
 
 install the required dependencies:
 
@@ -8,7 +10,7 @@ install the required dependencies:
 npm install
 ```
 
-run the app locally:
+start the development server:
 
 ```bash
 npm run dev
